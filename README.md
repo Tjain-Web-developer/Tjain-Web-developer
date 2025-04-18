@@ -7,21 +7,24 @@
 
 ---
 
-🌱 I’m a developer with a passion for building **scalable web and mobile apps** that bridge performance and design.
+🌱 I'm a passionate full-stack developer with a mission to build **scalable, fast, and elegant web and mobile applications** that solve real-world problems.
 
-🔭 Currently working as a **Senior Software Developer at Brandsmashers**, building products like [Blushco.ai](https://www.brandsmashers.com) and full-stack projects like **CONVO** (video conferencing app).
+🧠 I specialize in:
+- JavaScript, TypeScript, React, Next.js, React Native
+- Node.js, MongoDB, Firebase, REST APIs
+- CI/CD with GitHub Actions, Firebase Hosting, GCP
+- Modern UI libraries like Material-UI and Bootstrap
 
-🚀 Previously built:
-- 💬 **CONVO** – Node.js + Socket.io Omegle-style app
-- 🛒 **CloseToBuy** – Android & Web eCommerce Platform
-- 👥 **LEAF.VIP** – SocialFi app with dynamic UI & media uploads
-- 📱 **THE ARENA** – Infinite scroll app with pagination, sorting, filtering
-
-💼 Check out my [Resume](https://github.com/Tjain-Web-developer/Tjain-Web-developer/blob/main/Tanishq_Jain_Resume.pdf)
+💼 **Previously** worked at **Brandsmashers Pvt. Ltd.** (Feb 2024 – Feb 2025) where I contributed to projects like:
+- ⚡ [Blushco.ai](https://www.blushco.ai/)
+- 💬 CONVO – Video conferencing app
+- 📲 CloseToBuy – Mobile-first eCommerce platform
+- 🧠 Leaf.VIP – SocialFi app
+- 📱 THE ARENA – Infinite scroll API-driven app
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Toolbox
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -29,9 +32,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 
 ---
 
@@ -44,10 +48,14 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/tanishq-jain-40304a227)
-- [GitHub](https://github.com/Tjain-Web-developer)
-- [Email](mailto:tanishqjain2114@gmail.com)
+- 📧 [Email](mailto:tanishqjain2114@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tanishq-jain-40304a227)
+- 💻 [GitHub](https://github.com/Tjain-Web-developer)
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/master/banner-2.jpg" width="100%" />
+</p>
